@@ -1,3 +1,1 @@
-index:
-    path: /
-    controller: App\Controller\IndexController::index
+# Routes are defined via annotations in controllers
